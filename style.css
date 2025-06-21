@@ -6,8 +6,16 @@
     font-family: BOP;
     src: url(Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
 }
+html, body {
+  height: 122%;
+  margin: 0;
+  padding: 0;
 body{
-    padding: 10px;
+    padding: 20px;
+    background-image: url(5a402757284697b5a02af118150ca647.jpg);
+    color: rgb(255, 255, 255);
+    background-size: cover;
+}
 p{
     font-family: BOP;
     font-size: 25px;
