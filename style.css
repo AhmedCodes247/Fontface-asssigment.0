@@ -1,0 +1,17 @@
+@font-face {
+    font-family: WDXL;
+    src: url(WDXLLubrifontSC-Regular.ttf);
+}
+@font-face {
+    font-family: BOP;
+    src: url(Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
+}
+p{
+    font-family: BOP;
+    font-size: 25px;
+}
+h1{
+    font-family: WDXL;
+    word-spacing: 10PX;
+    font-size: 40PX;
+
