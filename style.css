@@ -6,6 +6,9 @@
     font-family: BOP;
     src: url(Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
 }
+body{
+    padding: 10px;
+}
 p{
     font-family: BOP;
     font-size: 25px;
